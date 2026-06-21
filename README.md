@@ -1,3 +1,2 @@
-# Checkhost/WebCheck -- [French Edition]
-[French Language Only]
-
+# URL/IP -- [French Edition]
+Checking Url/Ip using WebCheck and CheckHost.
